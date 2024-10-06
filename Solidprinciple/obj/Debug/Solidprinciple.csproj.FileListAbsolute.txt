@@ -1,0 +1,8 @@
+D:\project\Solidprinciple\Solidprinciple\bin\Debug\Solidprinciple.exe.config
+D:\project\Solidprinciple\Solidprinciple\bin\Debug\Solidprinciple.exe
+D:\project\Solidprinciple\Solidprinciple\bin\Debug\Solidprinciple.pdb
+D:\project\Solidprinciple\Solidprinciple\obj\Debug\Solidprinciple.csproj.AssemblyReference.cache
+D:\project\Solidprinciple\Solidprinciple\obj\Debug\Solidprinciple.csproj.SuggestedBindingRedirects.cache
+D:\project\Solidprinciple\Solidprinciple\obj\Debug\Solidprinciple.csproj.CoreCompileInputs.cache
+D:\project\Solidprinciple\Solidprinciple\obj\Debug\Solidprinciple.exe
+D:\project\Solidprinciple\Solidprinciple\obj\Debug\Solidprinciple.pdb
